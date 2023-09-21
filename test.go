@@ -61,4 +61,5 @@ func main(){
 	
 	fmt.Println(names[0], names[1], names[2])
 	fmt.Println(nilai[0], nilai[1], nilai[2])
+	fmt.Println("Hello")
 }
